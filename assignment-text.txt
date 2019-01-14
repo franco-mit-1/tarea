@@ -1,1 +1,3 @@
 This text was created for the assignment 1.
+Additional Information:
+The second and third line of text were contributed by the second account (franco-mit-2) as a contributor.
